@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
     // borderColor: '#fff'
   },
   logo: {
-    width: 150,
+    width: 180,
     height: 200,
   }
 
